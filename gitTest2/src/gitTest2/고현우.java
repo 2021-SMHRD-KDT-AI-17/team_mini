@@ -10,7 +10,7 @@ public class 고현우 {
 		int num2 = 1;
 		
 		System.out.println(Num1+num2);
-
+		// num1 --> Num1 바꼈나요?? / 명택
 		System.out.println("충돌실험");
 		
 	}
