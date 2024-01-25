@@ -6,6 +6,7 @@ public class test2 {
 		
 		System.out.println("봄씨 식사하세요?");
 		System.out.println("아녕...");
+		System.out.println("왜요?");
 
 
 	}
