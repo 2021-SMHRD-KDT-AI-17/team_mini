@@ -7,5 +7,7 @@ public class 명택 {
 		System.out.println("제육볶음, 들깨수제비");
 
 	}
+	
+	
 
 }
