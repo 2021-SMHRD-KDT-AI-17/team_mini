@@ -7,10 +7,11 @@ public class 고현우 {
 		System.out.println("고현우 파일");
 		
 		int num1 = 2;
-		int num2 = 3;
+		int num2 = 1;
 		
 		System.out.println(num1+num2);
-		
+
+		System.out.println("충돌실험");
 		
 	}
 
